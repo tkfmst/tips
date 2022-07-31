@@ -4,6 +4,11 @@
     - ```sh
       gcloud config configurations list
       ```
+- 切り替え
+    - ```sh
+      gcloud config configurations activate default
+      ```
+
 
 ## sql
 
